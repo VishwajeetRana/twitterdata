@@ -1,0 +1,88 @@
+note
+
+http://infolab.stanford.edu/~ullman/mining/2003.html
+
+Lecture Notes
+These lecture notes refer to the material in the Assigned Readings and do not have attached citations. You may download the whole set (about 400Kb) in Postscript or PDF, or you may download sections by topic:
+
+    Overview: Postscript; PDF.
+
+	    Association-Rule Mining: Postscript; PDF.
+		Low-Support/High Correlation: Postscript; PDF.
+		Query Flocks: Postscript; PDF.
+		Searching the Web: Postscript; PDF.
+		Web Mining: Postscript; PDF.
+		Clustering, Part I: Postscript; PDF.
+		Clustering, Part II: Postscript; PDF.
+		Matching Sequences: Postscript; PDF.
+		Mining Event Sequences: Postscript; PDF. 
+		Assigned Readings
+	Note: some of these links require access to an electronic library, such as ACM's, and may not be available from non-Stanford machines.
+
+										    Wednesday, 5/17: H. Mannila, H. Toivonen, and A. I. Verkamo, ``Discovering Frequent Episodes in Sequences.'' First International Conference on Knowledge Discovery and Data Mining, pp. 210 - 215, AAAI Press, 1995. Postscript.
+
+											    Monday, 5/15: Christos Faloutsos, M. Ranganathan and Yannis Manolopoulos, ``Fast subsequence matching in time-series databases,'' SIGMOD, 1994, pp. 419-429. PDF.
+
+												    Wednesday, 5/10: S. Guha, R. Rastogi, and K. Shim, ``CURE: An Efficient Clustering Algorithm for Large Databases,'' SIGMOD 1998. PDF. Note: this PDF file requires a huge amount of temp space (over 200Mb).
+
+													    Monday, 5/8: Venkatesh Ganti, Raghu Ramakrishnan, Johannes Gehrke, Allison L. Powell, and James C. French:, ``Clustering Large Datasets in Arbitrary Metric Spaces,'' ICDE, pp. 502--511, 1999. PDF.
+
+														    Wednesday, 5/3: Christos Faloutsos and King-Ip (David) Lin, ``FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets,'' ACM SIGMOD, May 1995, San Jose, CA, pp. 163-174. Gzipped Postscript.
+
+															    Wednesday, 4/26: P. Bradley, U. Fayyad, and C. Reina, ``Scaling Clustering Algorithms to Large Databases,'' 1998 KDD. Postscript.
+
+																    Monday, 4/24: S. Brin, ``Extracting Patterns and Relations from the World-Wide Web.'' Postscript.
+
+																	    Wednesday, 4/19:
+
+																		    a)
+																			        J. Kleinberg, ``Authoritative sources in a hyperlinked environment,'' J. ACM Sept., 1999, pp. 604-632. PDF.
+
+																					    b)
+																						        S. Brin and L. Page, ``Dynamic Data Mining.'' Postscript.
+
+																								    Monday, 4/17: S. Brin and L. Page, ``The Anatomy of a Large-Scale Hypertextual Web Search Engine,'' WWW7/Computer Networks (1-7), 1998, pp. 107-117. Postscript.
+
+																									    Wednesday, 4/12: D. Tsur et al., ``Query Flocks: A Generalization of Association-Rule Mining,'' 1998 SIGMOD. Postscript.
+
+																										    Monday, 4/10: E. Cohen et al., ``Finding Interesting Associations without Support Pruning,'' ICDE 2000. Postscript.
+
+																											    Wednesday, 4/5:
+
+																												    a)
+																													        M. Fang, N. Shivakumar, H. Garcia-Molina, R. Motwani, and J. Ullman, ``Computing Iceberg Queries Efficiently,'' 1998 VLDB. Postscript.
+
+																															    b)
+																																        H. Toivonen, ``Sampling Large Databases for Association Rules,'' VLDB 1996, pp. 134-145. Postscript. 
+
+																																		    Monday, 4/3: J. S. Park, M.-S. Chen, and P. S. Yu, ``An Effective Hash-Based Algorithm for Mining Association Rules,'' 1995 SIGMOD, pp. 175--186. PDF
+
+																																			    Wednesday, 3/29:
+
+																																				    a)
+																																					        R. Agrawal, T. Imielinski, A. Swami: ``Mining Associations between Sets of Items in Massive Databases'', Proc. of the ACM SIGMOD Int'l Conference on Management of Data, Washington D.C., May 1993, 207-216. Postscript. PDF.
+
+																																							    b)
+																																								        R. Agrawal, R. Srikant: ``Fast Algorithms for Mining Association Rules'', Proc. of the 20th Int'l Conference on Very Large Databases, Santiago, Chile, Sept. 1994. Postscript. PDF. 
+
+																																										Resources
+
+																																										    The Final Exam. Comments Regarding Solution to the exam.
+
+																																											    CS145 notes on Datalog. Postscript; PDF.
+
+																																												    ACM SIGKDD (Knowledge Discovery in Databases) home page.
+
+																																													    CS349 taught previously as data mining by Sergey Brin.
+
+																																														    Heikki Mannila's Papers at the University of Helsinki.
+
+																																															    The IBM Quest Project.
+
+																																																    Shinichi Morishita's Papers at the University of Tokyo. Also, his Recent Papers on genome mining.
+
+																																																	    CACM, Nov., 1996 Special Issue on Data Mining.
+
+																																																		    Univ. of Washington/Microsoft Summer, 1997 Institute on data mining.
+
+																																																			    J. Gehrke. W.-Y. Loh, R. Ramamkrishnan, Tutorial on Classification from the 1999 KDD Conference. PDF. 
